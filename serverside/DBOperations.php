@@ -2,10 +2,10 @@
 
 class DBOperations{
 
-	 private $host = '127.0.0.1';
-	 private $user = 'root';
-	 private $db = 'learn2crack-login-register';
-	 private $pass = '';
+	 private $host = 'localhost';
+	 private $user = 'herasosj_android';
+	 private $db = 'herasosj_android';
+	 private $pass = 'cm10052016';
 	 private $conn;
 
 public function __construct() {

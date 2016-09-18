@@ -88,7 +88,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
 } else if ($_SERVER['REQUEST_METHOD'] == 'GET'){
 
 
-  echo "Learn2Crack Login API";
+  echo "JUAREZ SERVER ANDROID Login API";
 
 }
 
